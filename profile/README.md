@@ -7,7 +7,7 @@ Modern DLC management tool for The Sims 4
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.0.4.4+ Release]() = `*Tool files & folder*`
+- [💾 v.0.4.4+ Release](https://github.com/Sims-4-Linua-DLC-Unlocker-v5/.github/releases) = `*Tool files & folder*`
 
 ---
 
